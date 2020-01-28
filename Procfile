@@ -1,0 +1,1 @@
+web: gunicorn Teo_Lists.wsgi
